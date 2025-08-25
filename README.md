@@ -28,6 +28,10 @@ Under onsdagen kommer vi att dyka in i rollen frontendutvecklare och titta närm
 * [Discord - nedladdning](https://discord.com/download)
 * [The Great Divide](https://css-tricks.com/the-great-divide/)
 * [Forget the hype](https://medium.com/mop-developers/forget-the-hype-ai-isnt-taking-your-coding-job-9047f2d16171)
+* [Beyond Chatbots: How AI Can Change Frontend Development](https://thenewstack.io/beyond-chatbots-how-ai-can-change-frontend-development/)
+* [The Future of Frontend: How AI is Reshaping Development](https://medium.com/@bhaveshchoudhary193/the-future-of-frontend-how-ai-is-reshaping-development-d0af68200afc)
+* [How AI will create new “Frontend Architect” roles](https://dev.to/gruszdev/the-rise-of-the-frontend-architect-how-ai-is-merging-design-and-development-3pml)
+* [Navigating the AI Era as a Frontend Engineer](https://medium.com/@dudhatrayashraj/navigating-the-ai-era-as-a-frontend-engineer-86e293295360)
 
 ### Övningar
 * [Studiemiljöer](https://github.com/fu-intro-fe25/exercise-study-environment-setup)
