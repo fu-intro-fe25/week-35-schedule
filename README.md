@@ -17,7 +17,7 @@ Under onsdagen kommer vi att dyka in i rollen frontendutvecklare och titta närm
 
 ### Presentationer
 * [Introduktion](https://docs.google.com/presentation/d/1gDjGeHlczRU2ChuLygm1veUyYRPUAo6M/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
-* [IT-Branschen]()
+* [IT-Branschen](https://docs.google.com/presentation/d/1olN2MqPulc4kuTJSOmTe1HyLlQStY4N3/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Filmer
 
