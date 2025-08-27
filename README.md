@@ -37,6 +37,7 @@ Under onsdagen kommer vi att dyka in i rollen frontendutvecklare och titta närm
 
 ### Övningar
 * [Studiemiljöer](https://github.com/fu-intro-fe25/exercise-study-environment-setup)
+* [Individuell Examination](https://github.com/fu-intro-fe25/exam-individuell)
 
 
 
