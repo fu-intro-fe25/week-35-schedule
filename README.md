@@ -19,7 +19,9 @@ Under onsdagen kommer vi att dyka in i rollen frontendutvecklare och titta närm
 * [Introduktion](https://docs.google.com/presentation/d/1gDjGeHlczRU2ChuLygm1veUyYRPUAo6M/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * [IT-Branschen](https://docs.google.com/presentation/d/1olN2MqPulc4kuTJSOmTe1HyLlQStY4N3/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
-### Filmer
+### Inspelningar
+
+* [Troduktion till IT-Branschen, del 1](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EUnxaYs0pZVNhhcmeWDNyUEBhePm07IoXqQ0C97fjiqpnQ?e=0Jg1ns)
 
 ### Länkar
 * [Github](https://github.com/)
