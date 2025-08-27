@@ -21,7 +21,8 @@ Under onsdagen kommer vi att dyka in i rollen frontendutvecklare och titta närm
 
 ### Inspelningar
 
-* [Troduktion till IT-Branschen, del 1](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EUnxaYs0pZVNhhcmeWDNyUEBhePm07IoXqQ0C97fjiqpnQ?e=0Jg1ns)
+* [Introduktion till IT-Branschen, del 1](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EUnxaYs0pZVNhhcmeWDNyUEBhePm07IoXqQ0C97fjiqpnQ?e=0Jg1ns)
+* [Introduktion till IT-Branschen, del 2](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EcqjNZeY1T1GuFuP3U-BkAsBxim4o8DVqW4R1wWS4Mf2hQ?e=aeJ0M9)
 
 ### Länkar
 * [Github](https://github.com/)
